@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+python-dotenv
+openpyxl
+xlsxwriter
+google-cloud-aiplatform
